@@ -5,6 +5,7 @@ from sqlite3 import Error
 
 def create_connection(db_file):
     """ create a database connection to a SQLite database """
+    מירב
     conn = None
     try:
         conn = sqlite3.connect(db_file)
