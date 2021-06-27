@@ -1,10 +1,10 @@
-'''
+"""
 import sqlite3
 from sqlite3 import Error
 
 
 def create_connection(db_file):
-    """ create a database connection to a SQLite database """
+    ""create a database connection to a SQLite database ""
     מירב
     conn = None
     try:
@@ -15,7 +15,7 @@ def create_connection(db_file):
     finally:
         if conn:
             conn.close()
-'''
+"""
 import sqlite3
 from sqlite3 import Error
 
