@@ -1,6 +1,6 @@
 class component:
     def __init__(self, quantity, measure, product):
-        self.quantity = quantity
+        sel.quantity = quantity
         self.measure = measure
         self.product = product
 
