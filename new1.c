@@ -6,7 +6,7 @@
 
    // use appropriate location if you are using MacOS or Linux
    fptr = fopen("C:\\program.txt","w");
-   ///////////////////
+   
 
    printf("Enter num: ");
    scanf("%d",&num);

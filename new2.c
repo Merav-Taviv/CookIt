@@ -1,6 +1,6 @@
 #include <stdio.h>#include <stdlib.h>int main(){
    FILE *fptr;
-  
+  //......
    // use appropriate location if you are using MacOS or Linux
 
    if(fptr == NULL)
