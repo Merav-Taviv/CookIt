@@ -1,5 +1,5 @@
 # CookIt 
-=======
+
 # CookIt
 >>>>>>> Stashed changes
 An app for managing a personal recipe book
